@@ -23,6 +23,7 @@ namespace SchedulingAssistant
         public MainWindow()
         {
             InitializeComponent();
+            //Added a comment
         }
     }
 }
